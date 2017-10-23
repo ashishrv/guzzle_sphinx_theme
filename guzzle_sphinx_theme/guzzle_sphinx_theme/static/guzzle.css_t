@@ -128,12 +128,12 @@ code, pre {
   line-height: 23px;
   margin: 20px 0;
   word-wrap: normal;
-  background-color: #fff;
+  background-color: #f6f6f6;
 }
 
 pre {
   color: #333;
-  background-color: #fff;
+  background-color: #f6f6f6;
   overflow: auto;
   border-width: 0 0 0 2px;
   border-color: #eee;
